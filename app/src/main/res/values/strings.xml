@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">assignment_3</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="main">Scholar Academy</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="name">FullName</string>
+    <string name="address">Address</string>
+    <string name="logout">Logout</string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="acc">Already have an account?</string>
+    <string name="info">View Student Info</string>
+    <string name="welcome">Welcome !</string>
+    <string name="sem">6</string>
+</resources>
